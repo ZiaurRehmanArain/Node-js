@@ -1,0 +1,11 @@
+project create
+
+cmd 
+
+npm init
+
+
+miss packages
+
+npm i express
+npm i nodemon
